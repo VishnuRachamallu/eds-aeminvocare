@@ -8,7 +8,10 @@
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/text/v1/text",
-            "template": {}
+            "template": {
+              "name": "Vishnu Teaser",
+              "model": "vishnutext"
+            }
           }
         }
       }
