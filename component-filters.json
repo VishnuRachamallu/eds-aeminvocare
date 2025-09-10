@@ -17,13 +17,15 @@
       "columns",
       "fragment",
       "quote",
-      "teaser"
+      "teaser",
+      "vishnutext"
     ]
   },
   {
     "id": "cards",
     "components": [
-      "card"
+      "card",
+      "text"
     ]
   },
   {

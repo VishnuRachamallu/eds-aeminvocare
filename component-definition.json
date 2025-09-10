@@ -55,6 +55,18 @@
               }
             }
           }
+        },
+        {
+          "title": "Vishnu Text",
+          "id": "vishnutext",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/text/v1/text",
+                "template": {}
+              }
+            }
+          }
         }
       ]
     },
