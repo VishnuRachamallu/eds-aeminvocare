@@ -59,6 +59,7 @@
         {
           "title": "Vishnu Text",
           "id": "vishnutext",
+          "label": "Vishnu---Text",
           "plugins": {
             "xwalk": {
               "page": {
