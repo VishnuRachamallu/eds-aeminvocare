@@ -19,7 +19,7 @@
   ],
   "models": [
     {
-      "id": "quote",
+      "id": "vishnutext",
       "fields": [
         {
           "component": "richtext",
