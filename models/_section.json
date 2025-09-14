@@ -53,7 +53,14 @@
         "fragment",
         "quote",
         "teaser",
-        "vishnutext"
+        "vishnutext",
+        "accordion",
+        "carousel",
+        "embed",
+        "search",
+        "table",
+        "tabs",
+        "video"
       ]
     }
   ]
