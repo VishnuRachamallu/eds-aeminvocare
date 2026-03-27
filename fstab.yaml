@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p162613-e1741353.adobeaemcloud.com/bin/franklin.delivery/VishnuRachamallu/eds-aeminvocare/main"
+    url: "https://author-p162613-e1757403.adobeaemcloud.com/bin/franklin.delivery/VishnuRachamallu/eds-aeminvocare/main"
     type: "markup"
     suffix: ".html"
