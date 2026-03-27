@@ -1,0 +1,15 @@
+{
+  "variantName": "cards-locations",
+  "baseBlock": "cards",
+  "description": "Location cards showing state/region names with funeral home counts and links",
+  "visualCharacteristics": {
+    "layout": "grid",
+    "hasImages": false,
+    "background": "light",
+    "textAlignment": "center"
+  },
+  "source": "https://www.whiteladyfunerals.com.au/",
+  "created": "2026-03-27",
+  "usageCount": 1,
+  "pages": ["https://www.whiteladyfunerals.com.au/"]
+}

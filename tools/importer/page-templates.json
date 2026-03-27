@@ -1,0 +1,153 @@
+{
+  "templates": [
+    {
+      "name": "homepage",
+      "urls": [
+        "https://www.whiteladyfunerals.com.au/"
+      ],
+      "description": "White Lady Funerals homepage with hero, services overview, and company information",
+      "blocks": [
+        {
+          "name": "hero",
+          "instances": [
+            ".jw-primary-hero"
+          ]
+        },
+        {
+          "name": "columns",
+          "instances": [
+            ".jw-pin-scrolled-feature-panels__pinned-panels"
+          ]
+        },
+        {
+          "name": "cards-values",
+          "instances": [
+            ".jw-usp-grid"
+          ]
+        },
+        {
+          "name": "cards-featured",
+          "instances": [
+            ".jw-card-featured-grid"
+          ]
+        },
+        {
+          "name": "cards-locations",
+          "instances": [
+            ".jw-locations-callout__locations"
+          ]
+        },
+        {
+          "name": "cards-testimonial",
+          "instances": [
+            ".jw-testimonials__testimonials"
+          ]
+        },
+        {
+          "name": "carousel-blog",
+          "instances": [
+            ".jw-blog-carousel__carousel"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Hero",
+          "selector": ".jw-primary-hero",
+          "style": null,
+          "blocks": [
+            "hero"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Text Block with Badges",
+          "selector": ".jw-text-block",
+          "style": null,
+          "blocks": [],
+          "defaultContent": [
+            ".jw-text-block__content h2",
+            ".jw-text-block__content .typography-body-large",
+            ".jw-facilities-block__facilities"
+          ]
+        },
+        {
+          "id": "section-3",
+          "name": "Feature Panels",
+          "selector": ".jw-pin-scrolled-feature-panels",
+          "style": null,
+          "blocks": [
+            "columns"
+          ],
+          "defaultContent": [
+            ".jw-pin-scrolled-feature-panels .jw-section-wrap__heading h2"
+          ]
+        },
+        {
+          "id": "section-4",
+          "name": "Featured Cards Breakout",
+          "selector": ".jw-featured-cards-breakout",
+          "style": "dark",
+          "blocks": [
+            "cards-values",
+            "cards-featured"
+          ],
+          "defaultContent": [
+            ".jw-scrolling-text"
+          ]
+        },
+        {
+          "id": "section-5",
+          "name": "Locations Callout",
+          "selector": ".jw-locations-callout",
+          "style": null,
+          "blocks": [
+            "cards-locations"
+          ],
+          "defaultContent": [
+            ".jw-locations-callout .jw-section-wrap__heading h2",
+            ".jw-locations-callout .jw-section-wrap__cta-container a"
+          ]
+        },
+        {
+          "id": "section-6",
+          "name": "Testimonials",
+          "selector": ".jw-testimonials",
+          "style": "dark",
+          "blocks": [
+            "cards-testimonial"
+          ],
+          "defaultContent": [
+            ".jw-testimonials .jw-section-wrap__heading h2"
+          ]
+        },
+        {
+          "id": "section-7",
+          "name": "Blog Carousel",
+          "selector": ".jw-blog-carousel",
+          "style": null,
+          "blocks": [
+            "carousel-blog"
+          ],
+          "defaultContent": [
+            ".jw-blog-carousel .jw-section-wrap__heading h2",
+            ".jw-blog-carousel .jw-section-wrap__cta-container a"
+          ]
+        },
+        {
+          "id": "section-8",
+          "name": "Footer CTA",
+          "selector": ".jw-cta-block",
+          "style": "dark",
+          "blocks": [],
+          "defaultContent": [
+            ".jw-cta-block h2",
+            ".jw-cta-block a"
+          ]
+        }
+      ]
+    }
+  ]
+}

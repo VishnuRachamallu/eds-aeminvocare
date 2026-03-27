@@ -1,0 +1,16 @@
+{
+  "variantName": "cards-featured",
+  "baseBlock": "cards",
+  "description": "Large featured action cards with background images, overlay text, and CTAs",
+  "visualCharacteristics": {
+    "layout": "grid",
+    "hasImages": true,
+    "background": "dark",
+    "imageStyle": "background-overlay",
+    "textAlignment": "left"
+  },
+  "source": "https://www.whiteladyfunerals.com.au/",
+  "created": "2026-03-27",
+  "usageCount": 1,
+  "pages": ["https://www.whiteladyfunerals.com.au/"]
+}

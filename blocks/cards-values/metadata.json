@@ -1,0 +1,15 @@
+{
+  "variantName": "cards-values",
+  "baseBlock": "cards",
+  "description": "Text-only value proposition cards displaying brand values (heading + description, no images)",
+  "visualCharacteristics": {
+    "layout": "grid",
+    "hasImages": false,
+    "background": "dark",
+    "textAlignment": "left"
+  },
+  "source": "https://www.whiteladyfunerals.com.au/",
+  "created": "2026-03-27",
+  "usageCount": 1,
+  "pages": ["https://www.whiteladyfunerals.com.au/"]
+}
